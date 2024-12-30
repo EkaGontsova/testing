@@ -5,6 +5,7 @@ branches:
     - master
 install:
   - npm install
+  
 build: off
 test_script:
   - npm run lint && npm test
