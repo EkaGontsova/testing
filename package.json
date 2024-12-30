@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "lint": "npx"
+    "lint": "eslint"
   },
   "devDependencies": {
     "@babel/cli": "^7.26.4",
